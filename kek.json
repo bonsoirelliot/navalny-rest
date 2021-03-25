@@ -1,1 +1,123 @@
-{"items":[{"id":1,"name":"\u0422\u043e\u0440\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0438 \u043e\u0447\u0435\u043d\u044c \u0432\u043a\u0443\u0441\u043d\u044b\u0439","price":13,"article":2212294583,"image":"https:\/\/d-element.ru\/upload\/api\/cake.jpg"},{"id":2,"name":"\u041f\u0440\u044f\u043d\u0438\u043a \u0442\u0443\u043b\u044c\u0441\u043a\u0438\u0439","price":666,"article":450215437,"image":"https:\/\/d-element.ru\/upload\/api\/gingy.jpg"},{"id":3,"name":"\u041a\u0435\u043d\u0433\u0443\u0440\u0443 \u043f\u0440\u044b\u0433\u0430\u0435\u0442","price":null,"article":1842515611,"image":"https:\/\/d-element.ru\/upload\/api\/keng.jpg"},{"id":4,"name":"\u041f\u0438\u043d\u0433\u0432\u0438\u043d","price":1223.1199999999999,"article":4088798008,"image":"https:\/\/d-element.ru\/upload\/api\/ping.jpg"},{"id":5,"name":"\u0428\u043e\u043a\u043e\u043b\u0430\u0434 XXL","price":"120","article":2226203566,"image":"https:\/\/d-element.ru\/upload\/api\/choco.jpg"},{"id":6,"name":"\u0426\u0432\u0435\u0442\u043d\u044b\u0435 \u043a\u043e\u0442\u0438\u043a\u0438","price":13036,"article":498629140,"image":"https:\/\/d-element.ru\/upload\/api\/colors.jpg"},{"id":7,"name":"\u041a\u043e\u0442\u0438\u043a\u0438","price":13049,"article":1790921346,"image":"https:\/\/d-element.ru\/upload\/api\/cats.jpg"},{"id":8,"name":"\u0411\u0430\u0431\u043e\u0447\u043a\u0430 \u043a\u0440\u0430\u0441\u0438\u0432\u0430\u044f \u0446\u0432\u0435\u0442\u043d\u0430\u044f","price":13064,"article":4194326291,"image":"https:\/\/d-element.ru\/upload\/api\/butterfly.jpg"},{"id":9,"name":"\u042f\u0433\u043e\u0434\u043a\u0438 \u0432\u043a\u0443\u0441\u043d\u044b\u0435 \u043a\u0440\u0430\u0441\u043d\u044b\u0435","price":13081,"article":2366072709,"image":"https:\/\/d-element.ru\/upload\/api\/berries.jpg"},{"id":10,"name":"\u041f\u0430\u0440\u043a \u043f\u0430\u0440\u043a\u043e\u0432\u044b\u0439 XL","price":13100,"article":2707236321,"image":"https:\/\/d-element.ru\/upload\/api\/park.jpg"},{"id":11,"name":"\u0422\u043e\u0432\u0430\u0440 \u0442\u043e\u0432\u0430\u0440\u043d\u044b\u0439 11","price":13121.110000000001,"article":3596227959,"image":"https:\/\/d-element.ru\/upload\/api\/pic11.jpg"},{"id":12,"name":"\u0422\u043e\u0432\u0430\u0440 \u0442\u043e\u0432\u0430\u0440\u043d\u044b\u0439 12","price":13144.120000000001,"article":1330857165,"image":"https:\/\/d-element.ru\/upload\/api\/pic12.jpg"},{"id":13,"name":"\u0422\u043e\u0432\u0430\u0440 \u0442\u043e\u0432\u0430\u0440\u043d\u044b\u0439 13","price":13169.129999999999,"article":945058907,"image":"https:\/\/d-element.ru\/upload\/api\/pic13.jpg"},{"id":14,"name":"\u0422\u043e\u0432\u0430\u0440 \u0442\u043e\u0432\u0430\u0440\u043d\u044b\u0439 14","price":13196.139999999999,"article":2788221432,"image":"https:\/\/d-element.ru\/upload\/api\/pic14.jpg"},{"id":15,"name":"\u0422\u043e\u0432\u0430\u0440 \u0442\u043e\u0432\u0430\u0440\u043d\u044b\u0439 15","price":13225.15,"article":3510096238,"image":"https:\/\/d-element.ru\/upload\/api\/pic15.jpg"},{"id":16,"name":"\u0422\u043e\u0432\u0430\u0440 \u0442\u043e\u0432\u0430\u0440\u043d\u044b\u0439 16","price":13256.16,"article":1212055764,"image":"https:\/\/d-element.ru\/upload\/api\/pic16.jpg"},{"id":17,"name":"\u0422\u043e\u0432\u0430\u0440 \u0442\u043e\u0432\u0430\u0440\u043d\u044b\u0439 17","price":13289.17,"article":1060745282,"image":"https:\/\/d-element.ru\/upload\/api\/pic17.jpg"},{"id":18,"name":"\u0422\u043e\u0432\u0430\u0440 \u0442\u043e\u0432\u0430\u0440\u043d\u044b\u0439 18","price":13324.18,"article":2944839123,"image":"https:\/\/d-element.ru\/upload\/api\/pic18.jpg"}]}
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Торт большой и очень вкусный",
+      "price": 13,
+      "article": 2212294583,
+      "image": "https://d-element.ru/upload/api/cake.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Пряник тульский",
+      "price": 666,
+      "article": 450215437,
+      "image": "https://d-element.ru/upload/api/gingy.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Кенгуру прыгает",
+      "price": null,
+      "article": 1842515611,
+      "image": "https://d-element.ru/upload/api/keng.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Пингвин",
+      "price": 1223.12,
+      "article": 4088798008,
+      "image": "https://d-element.ru/upload/api/ping.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Шоколад XXL",
+      "price": "120",
+      "article": 2226203566,
+      "image": "https://d-element.ru/upload/api/choco.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Цветные котики",
+      "price": 13036,
+      "article": 498629140,
+      "image": "https://d-element.ru/upload/api/colors.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Котики",
+      "price": 13049,
+      "article": 1790921346,
+      "image": "https://d-element.ru/upload/api/cats.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Бабочка красивая цветная",
+      "price": 13064,
+      "article": 4194326291,
+      "image": "https://d-element.ru/upload/api/butterfly.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ягодки вкусные красные",
+      "price": 13081,
+      "article": 2366072709,
+      "image": "https://d-element.ru/upload/api/berries.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Парк парковый XL",
+      "price": 13100,
+      "article": 2707236321,
+      "image": "https://d-element.ru/upload/api/park.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Товар товарный 11",
+      "price": 13121.11,
+      "article": 3596227959,
+      "image": "https://d-element.ru/upload/api/pic11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Товар товарный 12",
+      "price": 13144.12,
+      "article": 1330857165,
+      "image": "https://d-element.ru/upload/api/pic12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Товар товарный 13",
+      "price": 13169.13,
+      "article": 945058907,
+      "image": "https://d-element.ru/upload/api/pic13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Товар товарный 14",
+      "price": 13196.14,
+      "article": 2788221432,
+      "image": "https://d-element.ru/upload/api/pic14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Товар товарный 15",
+      "price": 13225.15,
+      "article": 3510096238,
+      "image": "https://d-element.ru/upload/api/pic15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Товар товарный 16",
+      "price": 13256.16,
+      "article": 1212055764,
+      "image": "https://d-element.ru/upload/api/pic16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Товар товарный 17",
+      "price": 13289.17,
+      "article": 1060745282,
+      "image": "https://d-element.ru/upload/api/pic17.jpg"
+    }
+  ]
+}
